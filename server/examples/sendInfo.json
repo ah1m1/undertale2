@@ -1,0 +1,27 @@
+{
+    "currentTurn": "spieler1",
+    "team1": {
+        "player": "spieler1",
+        "pokemon": {
+            "name": "Glumanda",
+            "health": 2000,
+            "attacks": {
+                "attack1": {
+
+                }
+            }
+        }
+    },
+    "team2": {
+        "player": "spieler2",
+        "pokemon": {
+            "name": "Bisasam",
+            "health": 2000,
+            "attacks": {
+                "attack1": {
+
+                }
+            }
+        }
+    }
+}
